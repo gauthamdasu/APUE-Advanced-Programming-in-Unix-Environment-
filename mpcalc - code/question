@@ -1,0 +1,6 @@
+8A) Write a program called mpcalc (multi process calc) that will compare two expressions of the form ab and cd and will print out which is less than (or equal to) which. These numbers (a, b, c & d) should be accepted from the user (standard input).
+
+This program should be implemented using multiple processes so that the main process can spawn another process to do the calculation and allow the user to specify another such expression comparison.
+
+The main process should exit when the user indicates that he wants to quit. Accept a maximum of 10 expression comparison commands (exit automatically after the 10th expression comparison is specified).
+
