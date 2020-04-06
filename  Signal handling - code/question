@@ -1,0 +1,11 @@
+8C) Write a shell program. It should have the following minimum features:
+You should be able to execute any commands (programs) with arguments (Program 1.5 of APUE does not allow any arguments for a command).
+
+ The termination status and exit status (if any) of the executed program should be reported after termination of the program.
+
+Optional: You should allow user to create / modify environment variables and export them. You should test whether a newly created shell    
+    variable which is exported is getting specified in the environment variables of the programs executed from the shell.
+    
+Optional: You should allow the user to execute programs in the background.
+    Any additional features from your side are very welcome :-)
+
